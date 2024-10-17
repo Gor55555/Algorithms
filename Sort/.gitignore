@@ -1,0 +1,13 @@
+# Ignore build folder
+x64/
+
+# Ignore Visual Studio Project Files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Ignore file
+*.sln
+
+# Ignore Visual Studio Settings
+.vs/
